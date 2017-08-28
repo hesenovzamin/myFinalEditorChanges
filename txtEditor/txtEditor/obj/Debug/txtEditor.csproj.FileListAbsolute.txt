@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2017\Projects\txtEditor\txtEditor\bin\Debug\txtEditor.exe.config
+c:\users\user\documents\visual studio 2017\Projects\txtEditor\txtEditor\bin\Debug\txtEditor.exe
+c:\users\user\documents\visual studio 2017\Projects\txtEditor\txtEditor\bin\Debug\txtEditor.pdb
+c:\users\user\documents\visual studio 2017\Projects\txtEditor\txtEditor\obj\Debug\txtEditor.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\txtEditor\txtEditor\obj\Debug\txtEditor.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\txtEditor\txtEditor\obj\Debug\txtEditor.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\txtEditor\txtEditor\obj\Debug\txtEditor.exe
+c:\users\user\documents\visual studio 2017\Projects\txtEditor\txtEditor\obj\Debug\txtEditor.pdb
+c:\users\user\documents\visual studio 2017\Projects\txtEditor\txtEditor\obj\Debug\txtEditor.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\txtEditor\txtEditor\bin\Debug\txtEditor.exe.config
+C:\Users\user\Desktop\txtEditor\txtEditor\bin\Debug\txtEditor.exe
+C:\Users\user\Desktop\txtEditor\txtEditor\bin\Debug\txtEditor.pdb
+C:\Users\user\Desktop\txtEditor\txtEditor\obj\Debug\txtEditor.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\txtEditor\txtEditor\obj\Debug\txtEditor.Form1.resources
+C:\Users\user\Desktop\txtEditor\txtEditor\obj\Debug\txtEditor.Properties.Resources.resources
+C:\Users\user\Desktop\txtEditor\txtEditor\obj\Debug\txtEditor.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\txtEditor\txtEditor\obj\Debug\txtEditor.exe
+C:\Users\user\Desktop\txtEditor\txtEditor\obj\Debug\txtEditor.pdb
